@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./generaetspecies01grisgoog_0388.png"; bbox 0 0 721 1223; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 10 64 12 597">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 10 64 12 597">
+     <span class='ocr_line' id='line_1_1' title="bbox 10 64 12 597; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 10 64 12 597; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 161 82 382 113">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 161 82 382 113">
+     <span class='ocr_line' id='line_1_2' title="bbox 161 82 382 113; baseline 0.009 -3"><span class='ocrx_word' id='word_1_2' title='bbox 161 82 382 113; x_wconf 43' lang='lat' dir='ltr'>&amp;numm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 116 116 450 198">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 116 116 450 198">
+     <span class='ocr_line' id='line_1_3' title="bbox 116 116 450 198; baseline 0.016 -21.816"><span class='ocrx_word' id='word_1_3' title='bbox 116 116 450 198; x_wconf 74' lang='grc' dir='ltr'>ιιιιιιιιῖιιιιιιιι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 176 180 412 201">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 176 180 412 201">
+     <span class='ocr_line' id='line_1_4' title="bbox 176 180 412 201; baseline 0.01 -2.269"><span class='ocrx_word' id='word_1_4' title='bbox 176 180 254 199; x_wconf 85' lang='grc'>85810</span> <span class='ocrx_word' id='word_1_5' title='bbox 242 182 307 200; x_wconf 81' lang='grc'>5042</span> <span class='ocrx_word' id='word_1_6' title='bbox 322 183 359 201; x_wconf 80' lang='grc'>982</span> <span class='ocrx_word' id='word_1_7' title='bbox 375 183 412 201; x_wconf 80' lang='grc'>394</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
